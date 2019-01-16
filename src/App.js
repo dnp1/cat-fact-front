@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
-import { FactView } from './components';
+import { FactView, HomeView } from './components';
+
 
 class App extends Component {
   render() {
@@ -12,7 +12,7 @@ class App extends Component {
             Welcome to cat-facts
           </p>
         </header>
-        <FactView/>
+        <HomeView/>
       </div>
     );
   }

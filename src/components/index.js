@@ -1,4 +1,4 @@
 import FactView from './FactView';
+import HomeView from './HomeView'
 
-
-export { FactView };
+export { FactView, HomeView};

@@ -30,3 +30,17 @@
     transform: rotate(360deg);
   }
 }
+
+
+.App-button-link {
+  
+    display: inline-block;
+    margin: 1em auto;
+    background: #4E9CAF;
+    padding: 10px 50px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2em;
+}
